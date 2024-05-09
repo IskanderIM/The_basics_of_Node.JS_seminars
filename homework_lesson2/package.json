@@ -1,0 +1,15 @@
+{
+  "name": "iskander_package_random_dates",
+  "version": "1.0.0",
+  "description": "This package for generating random date in format MM-DD-YYYY",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IskanderIM/The_basics_of_Node.JS_seminars"
+  },
+  "author": "Iskander Musin",
+  "license": "ISC"
+}
